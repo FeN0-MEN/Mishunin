@@ -41,6 +41,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     MishuninTheme {
-        Greeting("Branch-one")
+        Greeting("From branch-three")
     }
 }
